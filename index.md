@@ -16,6 +16,3 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ###### Ex. 2
 ```javascript
 var myVar = "Hello, world!";
-
-
-
